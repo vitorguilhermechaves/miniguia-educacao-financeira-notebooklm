@@ -29,8 +29,6 @@ As fontes abaixo foram selecionadas por serem abertas, acessíveis e adequadas a
 | 4 | Calculadora do Cidadão | Banco Central do Brasil | Ferramenta aberta | https://www.bcb.gov.br/meubc/calculadoradocidadao | Ferramenta prática para simular cálculos financeiros e visualizar o efeito do tempo e dos juros. |
 | 5 | Guia de Planejamento Financeiro | Comissão de Valores Mobiliários | PDF | https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-planejamento-financeiro/guia-planejamento-financeiro.pdf/@@display-file/file | Complementa o estudo com conceitos sobre planejamento, diversificação, objetivos financeiros e cuidados com promessas irreais de rentabilidade. |
 
-> Observação: as páginas antigas do Banco Central sobre planejamento e juros foram substituídas por PDFs oficiais e estáticos, mais adequados para validação no GitHub e para upload no NotebookLM.
-
 ## 4. Organização do caderno temático no NotebookLM
 
 Após selecionar as fontes, o caderno foi organizado no NotebookLM com o título **Educação Financeira Introdutória: orçamento, juros e primeiros investimentos**.
